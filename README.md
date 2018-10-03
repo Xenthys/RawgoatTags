@@ -26,7 +26,8 @@ Description of your tag.
 
 ## Example
 
-`Example result of your tag.`
+Input: `!example`  
+Output: `Result of your tag.`
 
 Created by User#0000
 ```
