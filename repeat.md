@@ -13,3 +13,5 @@ Output: ``Usage: `repeat <amount> <text>` ``
 
 Input: `!repeat 10 meep`  
 Output: `meep meep meep meep meep meep meep meep meep meep`
+
+Created by Xenthys#0001
