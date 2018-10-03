@@ -11,7 +11,7 @@ Collection of tags compatible with Rawgoat's tag engine.
 
 :warning: Pull requests adding or editing multiple files **will** be rejected.
 
-By adding a tag to this repository, you agree to release it under the MIT license.
+By adding a tag to this repository, you agree to release it under the [MIT license](https://github.com/Xenthys/RawgoatTags/blob/master/LICENSE).
 
 ## Format
 
