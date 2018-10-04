@@ -4,7 +4,7 @@ This simple tag randomly generates a phone number following the American format.
 
 ## Code
 
-`({random:2|9}{random:0|9}{random:0|9}) {random:2|9}{random:0|9}{random:0|9}-{random:0|9}{random:0|9}{random:0|9}{random:0|9} Who dis?`
+`{source:newphone}({random:2|9}{random:0|9}{random:0|9}) {random:2|9}{random:0|9}{random:0|9}-{random:0|9}{random:0|9}{random:0|9}{random:0|9} Who dis?`
 
 ## Example
 
