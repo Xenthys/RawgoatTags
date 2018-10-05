@@ -13,6 +13,6 @@ Input: `!shadowpres`
 Output: `__BREAKING NEWS:__ The **:flag_us: United States** have performed a coup d'état in **:flag_lu: Luxembourg**.
 :link: **https://www.latlmes.com/nation/united-states-war-20181005-story.html**`
 
-Created by cats#5485
-Flags added to countries by Tiemen#0001
-Overhauled by Xenthys#0001
+Created by cats#5485  
+Flags added to countries by Tiemen#0001  
+Overhauled by Xenthys#0001  
