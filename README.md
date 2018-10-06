@@ -22,7 +22,7 @@ Description of your tag.
 
 ## Code
 
-`Source of your tag.`
+`{source:example}Source of your tag.`
 
 ## Example
 
