@@ -8,10 +8,16 @@ Repeat a word or a sentence X times, everything being user-supplied.
 
 ## Example
 
-Input: `!repeat`  
-Output: ``Usage: `repeat <amount> <text>` ``
+`!repeat`
 
-Input: `!repeat 10 meep`  
-Output: `meep meep meep meep meep meep meep meep meep meep`
+Usage: `repeat <amount> <text>`
 
-Created by Xenthys#0001
+————————————————————
+
+`!repeat 10 meep`
+
+meep meep meep meep meep meep meep meep meep meep
+
+## Credits
+
+Created by Xenthys#0001  

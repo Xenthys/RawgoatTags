@@ -8,7 +8,10 @@ This tag lets you play The Wiki Game: from a random Wikipedia page, you have to 
 
 ## Example
 
-Input: `!thewikigame`  
-Output: `Click <https://en.wikipedia.org/wiki/Special:Random> - your goal is to get to the **Country code top-level domain** wiki page in the least amount of clicks. Have fun!`
+`!thewikigame`
 
-Created by tristanfarkas#0001
+Click <https://en.wikipedia.org/wiki/Special:Random> - your goal is to get to the **Country code top-level domain** wiki page in the least amount of clicks. Have fun!
+
+## Credits
+
+Created by tristanfarkas#0001  

@@ -8,7 +8,10 @@ This simple tag randomly generates a phone number following the American format.
 
 ## Example
 
-Input: `!newphone`  
-Output: `(404) 666-1337 Who dis?`
+`!newphone`
 
-Created by Xenthys#0001
+(404) 666-1337 Who dis?
+
+## Credits
+
+Created by Xenthys#0001  
